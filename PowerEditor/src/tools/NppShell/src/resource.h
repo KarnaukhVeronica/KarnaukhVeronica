@@ -10,3 +10,6 @@
 #define IDC_CHECK_ISDYNAMIC             1005
 
 #define IDC_STATIC                      -1
+
+//------------------------------------------
+#define NEW_ITEM  -10
